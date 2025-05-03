@@ -5,14 +5,8 @@ pymongo
 certifi
 pymongo
 certifi
-pymongo[srv]
-scikit-learn
-mlflow
-pyaml
-dagshub
-fastapi
-uvicorn
-python-multipart
+pymongo[srv]==3.12
+
 
 
 ##-e .
